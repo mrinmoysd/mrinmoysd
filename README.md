@@ -118,8 +118,8 @@ Each project has its own architecture write-up and a corresponding deep-dive pos
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrinmoysd&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoysd&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrinmoysd&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoysd&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
 </p>
 
 ---
